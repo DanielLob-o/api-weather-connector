@@ -1,0 +1,7 @@
+sqlalchemy==1.4.36
+pandas==2.0.3
+requests==2.29.0
+pytz==2022.7
+schedule==1.2.0
+DateTime==5.1
+psycopg2-binary~=2.9.6
